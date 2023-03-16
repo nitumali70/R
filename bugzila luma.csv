@@ -1,0 +1,11 @@
+bug_id,bug_severity,priority,op_sys,assigned_to,bug_status,resolution,short_desc
+2,major,High,Windows,sanjay@gmail.com,NEW,---,not as per the expected result  the search button is not working properly
+7,major,High,Windows,tina@gmail.com,NEW,---,as per the expected result we can  not entering the site
+8,major,High,Windows,tina@gmail.com,NEW,---,as per the expected result we can not enter the site
+9,major,High,Windows,tina@gmail.com,NEW,---,as per the expected result we can not enter the site
+4,critical,---,Windows,tina@gmail.com,NEW,---,as per the expected result we can not entering the site
+5,critical,---,Windows,tina@gmail.com,NEW,---,as per the expected result we can not entering the site
+6,major,High,Windows,tina@gmail.com,RESOLVED,FIXED,as per the expected result we can not enter the site
+10,major,High,Windows,tina@gmail.com,RESOLVED,FIXED,as per the expected result we can not enter the site
+3,minor,Low,Windows,pari@gmail.com,RESOLVED,FIXED,not as per expected result  while clicking on video downloder option it's not working
+1,major,---,Windows,tina@gmail.com,RESOLVED,FIXED,as per the expected result we can not entering the site

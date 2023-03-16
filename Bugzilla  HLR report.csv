@@ -1,0 +1,18 @@
+bug_id,bug_severity,priority,op_sys,assigned_to,bug_status,resolution,short_desc
+27,normal,Lowest,Windows,rahul@gmail.com,ASSIGNED,---,as per the expected result back home button is working but with performance glitch
+26,major,High,Windows,mahir@gmail.com,NEW,---,as per the expected result cancel button is working but with performance glitch
+25,normal,Low,Windows,gopal@gmail.com,RESOLVED,FIXED,as per the expected result back to product button is working but with performance glitch
+24,critical,High,Windows,tanisha@gmail.com,NEW,---,as per the expected result continue shopping button is working but with performance glitch
+23,critical,High,Windows,karthik@gmail.com,RESOLVED,FIXED,as per the expected result but information section is not working properly
+22,minor,Lowest,Windows,suru@gmail.com,NEW,---,as per the expected result reset app state is not working
+21,normal,Low,Windows,harshit@gmail.com,NEW,---,while  clcking on theabout menu it open another site
+20,minor,Low,Windows,suru@gmail.com,RESOLVED,FIXED,as per the expected result reset app state is not working
+19,normal,Low,Windows,harshit@gmail.com,ASSIGNED,---,while  clcking on the about menu it open another site
+18,major,High,Windows,vinita@gmail.com,ASSIGNED,---,not as per the expected result
+17,major,High,Windows,vinita@gmail.com,NEW,---,not as per the expected result
+16,major,High,Windows,vinita@gmail.com,RESOLVED,FIXED,not as per the expected result
+15,major,High,Windows,vinita@gmail.com,ASSIGNED,---,not as per the expected result
+14,major,High,Windows,vinita@gmail.com,ASSIGNED,---,as per the expected result login button is not working
+13,major,High,Windows,vinita@gmail.com,RESOLVED,FIXED,as per expected result but password is also in red
+12,major,High,Windows,vinita@gmail.com,ASSIGNED,---,as per expected result but username is also in red
+11,major,High,Windows,vinita@gmail.com,ASSIGNED,---,as per expected result but which username is to loggin on particular account
